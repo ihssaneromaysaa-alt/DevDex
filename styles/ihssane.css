@@ -1,0 +1,28 @@
+/* =========================================
+   ESTILOS PERSONALIZADOS
+   Ihssane Torqui
+   ========================================= */
+
+/* Cambia estos estilos para personalizar tu perfil */
+
+.profile-header {
+    border-left: 5px solid #2563eb;
+}
+
+.profile-avatar img {
+    border: 5px solid #2563eb;
+    transition: transform 0.3s ease;
+}
+
+.profile-avatar img:hover {
+    transform: scale(1.05);
+}
+
+.profile-info h1 {
+    color: #111827;
+}
+
+.section h2 {
+    color: #2563eb;
+}
+
