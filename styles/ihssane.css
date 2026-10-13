@@ -1,4 +1,5 @@
 
+
 /* ========================================
    DEVDEX - PERFIL PERSONAL DE IHSSANE
    ======================================== */
@@ -24,32 +25,4 @@
 
 .profile-page .section {
     transition: border-color 0.2s ease;
-}
-
-.profile-page .section:hover {
-    border-color: #c7d2fe;
-}
-
-.profile-skills {
-    margin-top: 22px;
-    margin-bottom: 0;
-}
-
-.profile-skills .badge {
-    padding: 8px 14px;
-    font-size: 0.85rem;
-}
-
-.profile-page .social-links {
-    margin-top: 20px;
-}
-
-.profile-page .hobbies-list li {
-    margin-bottom: 8px;
-}
-
-@media (max-width: 700px) {
-    .profile-page .profile-header {
-        background: #ffffff;
-    }
 }
