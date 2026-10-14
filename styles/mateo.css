@@ -1,0 +1,28 @@
+/* =========================================
+   ESTILOS PERSONALIZADOS
+   Mateo Ortuño
+   ========================================= */
+
+/* Cambia estos estilos para personalizar tu perfil */
+
+.profile-header {
+    border-left: 5px solid #67605d;
+}
+
+.profile-avatar img {
+    border: 5px solid #000000;
+    transition: transform 0.3s ease;
+}
+
+.profile-avatar img:hover {
+    transform: scale(1.05);
+}
+
+.profile-info h1 {
+    color: #021847;
+}
+
+.section h2 {
+    color: #390606;
+}
+
